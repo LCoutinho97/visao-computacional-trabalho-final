@@ -6,6 +6,7 @@
 Trabalho de conclusao da materia de visão computacional do MBA de Inteligencia Artificial da FIAP de 2019.
 
 Desenvolvido em um grupo de quatro alunos, sendo eles:
+
 Fabio de Jesus           RM 335069      
 Leonardo Coutinho        RM 333869      
 Pedro Pereira            RM 333126      
